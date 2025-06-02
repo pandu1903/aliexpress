@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Temukan Janda & Jomblo Dekat Kamu!</title>
+<style>
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #fff0f6;
+    margin: 0; padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .container {
+    background: #fff;
+    border-radius: 12px;
+    max-width: 400px;
+    padding: 25px;
+    box-shadow: 0 6px 18px rgba(255, 105, 180, 0.3);
+    text-align: center;
+  }
+  h1 {
+    color: #d81b60;
+    font-size: 26px;
+    margin-bottom: 18px;
+  }
+  p {
+    color: #555;
+    font-size: 16px;
+    margin-bottom: 25px;
+  }
+  img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  .btn-action {
+    background-color: #e91e63;
+    color: white;
+    padding: 16px 0;
+    width: 100%;
+    border: none;
+    border-radius: 50px;
+    font-size: 18px;
+    font-weight: 700;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+  }
+  .btn-action:hover {
+    background-color: #b0003a;
+  }
+  footer {
+    margin-top: 15px;
+    font-size: 12px;
+    color: #aaa;
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <h1>Janda & Jomblo Dekat Kamu Ingin Kenalan!</h1>
+  <img src="https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=600&q=80" alt="Dating Lokal" />
+  <p>Temukan wanita dan pria single di daerahmu yang siap chatting dan mungkin lebih dari itu.</p>
+  <a href="https://contoh-link-dating.com" target="_blank" class="btn-action" rel="nofollow noopener noreferrer">Lihat Profil Sekarang</a>
+  <footer>© 2025 Dating Lokal Indonesia</footer>
+</div>
+
+</body>
+</html>
